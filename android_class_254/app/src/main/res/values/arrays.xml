@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="store_info">
+        <item>南機場(咖啡) 台北市中華路</item>
+        <item>忠孝(咖啡) 台北市華路</item>
+        <item>丟周(咖啡) 台北市中路</item>
+    </string-array>
+
+
+
+</resources>
